@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/AayanFr">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Aayan%20Tripathi&description=AI%20and%20Tech%20Explorer%2C%20Student%20%26%20Developer%20exploring%20Python%2C%20web%20development%2C%20AI%2C%20design%2C%20and%20creative%20technology.&image=https%3A%2F%2Fgithub.com%2Fgithub.png&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=VoidxVolt&instagram=not_aayantripathi&github=AayanFr" alt="Aayan Tripathi's Card" />
+    <img src="https://github.com/AayanFr.png" width="160" height="160" style="border-radius: 50%; border: 3px solid #9400D3; box-shadow: 0 0 20px rgba(148, 0, 211, 0.6);" alt="Aayan Tripathi Profile Picture" />
   </a>
 </div>
 
