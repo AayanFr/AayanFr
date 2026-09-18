@@ -1,232 +1,437 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
+<div align="center">
+  <a href="https://github.com/AayanFr">
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Aayan%20Tripathi&description=AI%20and%20Tech%20Explorer%2C%20Student%20%26%20Developer%20exploring%20Roblox%20development%2C%20Python%2C%20web%20development%2C%20AI%2C%20design%2C%20and%20creative%20technology.&image=https%3A%2F%2Fgithub.com%2Fgithub.png&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=VoidxVolt&instagram=not_aayantripathi&github=AayanFr" alt="Aayan Tripathi's Card" />
+  </a>
+</div>
+
+<h1 align="center">Hello &nbsp;<a href="https://github.com/AayanFr"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Aayan Tripathi</h1>
+
 <p align="center">
-  <img
-    src="https://socialify.git.ci/athul/waka-readme/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto"
-    alt="waka-readme"
-    width="640"
-    height="320"
-  />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=500&lines=AI+%26+Tech+Explorer;Student+%26+Developer;Roblox+Developer;Python+Learner;Sketcher;Gamer;Video+Editor;Tech+Enthusiast;" alt="Typing SVG" />
 </p>
 
-# Dev Metrics in Readme [![Unit Tests](https://github.com/athul/waka-readme/actions/workflows/testing.yml/badge.svg?branch=master)](https://github.com/athul/waka-readme/actions/workflows/testing.yml)
+<p align="center">
+  Student | Sketcher | AI Explorer | Gamer | Tech Enthusiast | Video Editor
+</p>
 
-[WakaTime](https://wakatime.com) coding metrics on your profile readme.
+<div align="center">
 
-<!-- prettier-ignore-start -->
-<picture>
-  <source srcset="https://github.com/athul/waka-readme/assets/38415384/60a6bcd0-01f8-421a-8730-7e872d216e09"
-    media="(prefers-color-scheme: dark)" />
-  <img src="https://github.com/athul/waka-readme/assets/38415384/29541cbc-0e39-47c4-93c2-514032b47276"
-    alt="new_secrets_actions" />
-</picture>
-<!-- prettier-ignore-end -->
+<h2>🌐 Connect with Me</h2>
+<p>Find me around the web and check out what I'm creating!</p>
 
-:speech_balloon: **Forum** | [GitHub discussions][gh_discuss]
+| Aayan Tripathi                                                                                                                                            | YouTube                                                                                                                                                                                   | Instagram                                                                                                                                                                                                                      | Reddit                                                                                                                                                                                                  | GitHub                                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Aayan Tripathi](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv\&subtitle=Aayan+Tripathi\&size=square)](https://github.com/AayanFr) | [![VoidxVolt](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40VoidxVolt\&subtitle=%40VoidxVolt\&size=square)](https://www.youtube.com/@VoidxVolt) | [![not\_aayantripathi](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fnot_aayantripathi%2F\&subtitle=%40not_aayantripathi\&size=square)](https://www.instagram.com/not_aayantripathi/) | [![itzmeaayan](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fitzmeaayan%2F\&subtitle=%40itzmeaayan\&size=square)](https://www.reddit.com/user/itzmeaayan/) | [![AayanFr](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FAayanFr\&subtitle=%2FAayanFr\&size=square)](https://github.com/AayanFr) |
 
-## New to WakaTime?
+| Discord                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![itzmeaayan](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.com%2F\&subtitle=%40itzmeaayan\&size=square)](https://discord.com/) |
 
-> Nope? Skip to [#Prep work](#prep-work).
+</div>
 
-WakaTime gives you an idea of the time you spent on coding.
-This helps you boost your productivity and competitive edge (aka _flex_ :muscle:).
+<br>
 
-1. Head over to <https://wakatime.com/> and create an account.
-2. After logging in get your WakaTime API Key from <https://wakatime.com/api-key/>.
-3. Install [WakaTime plugin][waka_plugins] in your favorite editor / IDE.
-4. Paste in your API key to start telemetry.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AayanFr&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
 
-:information_source: **Info** | You can read [WakaTime help][waka_help] to know more about configurations.
-Alternatively, you can fetch data from WakaTime compatible services such as [Wakapi][wakapi] or [Hakatime][hakatime].
+<h2 align="center">🚀 About Me</h2>
 
-## Prep Work
+<p>
+I'm Aayan Tripathi, an AI and Tech Explorer, student, and developer who enjoys learning by building things.
 
-A GitHub repository and a `README.md` file is required. We'll be making use of readme in the [profile repository][profile_readme].
+I explore different areas of technology, from Roblox game development and Python to HTML, AI tools, digital design, and video editing. I'm still learning, experimenting, and figuring things out, but I enjoy turning ideas into actual projects.
 
-- Save the `README.md` file after copy-pasting the following special comments. Your dev-metics will show up in between.
+Outside of coding, I enjoy sketching, gaming, creating videos, and taking part in school presentations, speeches, and science exhibitions.
 
-  ```md
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-  ```
+My goal is to keep learning, build more projects, and use technology to turn ideas into something real.
 
-  `<!--START_SECTION: -->` and `<!--END_SECTION: -->` are placeholders and must be retained as is. Whereas "`waka`" can be replaced by any alphanumeric string. See [#Tweaks](#tweaks) section for more.
+</p>
 
-- Navigate to your repo's `Settings`:
-  - Go to `Secrets` (at `https://github.com/USERNAME/USERNAME/settings/secrets/actions/new` by replacing the `USERNAME` with your own username) and add a new secret "_Named_" `WAKATIME_API_KEY` with your API key as it's "_Secret_".
+<br>
 
-    <!-- prettier-ignore-start -->
-    <picture>
-      <source srcset="https://github.com/athul/waka-readme/assets/38415384/04dee9dc-65a1-43f9-9df4-7545646b9a72"
-        media="(prefers-color-scheme: dark)" />
-      <img src="https://github.com/athul/waka-readme/assets/38415384/9110cc3e-66cc-46ed-89d4-36644aa258e1"
-        alt="new_secrets_actions" />
-    </picture>
-    <!-- prettier-ignore-end -->
+<h2 align="center">🎯 Goals</h2>
 
-    > If you're not using [profile repository][profile_readme], add another secret "_Named_" `GH_TOKEN` and in place of "_Secret_" insert your [GitHub token][gh_access_token].
+<div align="center">
 
-  - Go to `Workflow permissions` under `Actions` (at `https://github.com/USERNAME/USERNAME/settings/actions` by replacing the `USERNAME` with your own username) and set `Read and write permissions`.
+| Goal                             | Focus                                        |
+| :------------------------------- | :------------------------------------------- |
+| 🎮 Build & publish a Roblox game | Learn more about Roblox development and Luau |
+| 🐍 Improve Python                | Build useful projects and experiments        |
+| 🌐 Learn Web Development         | Grow my HTML and web development skills      |
+| 🔧 Learn Fusion 360              | Explore CAD and 3D design                    |
+| 🤖 Learn Arduino                 | Get into electronics, robotics, and hardware |
+| 🚀 Build more projects           | Turn ideas into real things                  |
 
-    <!-- prettier-ignore-start -->
-    <picture>
-      <source srcset="https://github.com/athul/waka-readme/assets/38415384/a1b86a0b-4065-4ff1-847b-b52e681bf247"
-        media="(prefers-color-scheme: dark)" />
-      <img src="https://github.com/athul/waka-readme/assets/38415384/de9cb7d0-fd40-43cf-8fed-7c6f57207788"
-        alt="new_secrets_actions" />
-    </picture>
-    <!-- prettier-ignore-end -->
+</div>
 
-- Create a new workflow file named `waka-readme.yml` inside `.github/workflows/` folder of your repository.
-- Clear all existing contents, add following lines and save the file.
+<br>
 
-  ```yml
-  name: Waka Readme
+<h3 align="center">Git Stats</h3>
 
-  on:
-    # for manual workflow trigger
-    workflow_dispatch:
-    schedule:
-      # runs at 12 AM UTC (5:30 AM IST)
-      - cron: "0 0 * * *"
+<div align="center">
 
-  jobs:
-    update-readme:
-      name: WakaReadme DevMetrics
-      runs-on: ubuntu-latest
-      steps:
-        - uses: athul/waka-readme@master # this action name
-          with:
-            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-  ```
+<img src="https://streak-stats.demolab.com/?user=AayanFr&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
-  Refer [#Example](#example) section for a full blown workflow file.
+<br>
 
-## Tweaks
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AayanFr&custom_title=Aayan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="Aayan's GitHub Activity Graph" />
 
-There are many flags that you can modify as you see fit.
+<br>
 
-### Meta Tweaks
+<div align="center">
 
-| Environment flag | Options (`Default`, `Other`, ...)                                                        | Description                                                                   |
-| ---------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| `API_BASE_URL`   | `https://wakatime.com/api`, `https://wakapi.dev/api`, `https://hakatime.mtx-dev.xyz/api` | Use WakaTime compatible services like [Wakapi][wakapi] & [Hakatime][hakatime] |
-| `REPOSITORY`     | `<gh_username>/<gh_username>`, `<gh_username>/<repo_name>`                               | Waka-readme stats will appear on the provided repository                      |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayanFr&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AayanFr&theme=highcontrast&hide_border=true" alt="Repositories Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AayanFr&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
 
-### Content Tweaks
+</div>
 
-| Environment flag    | Options (`Default`, `Other`, ...)                                       | Description                                                                       |
-| ------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| `SHOW_TITLE`        | `false`, `true`                                                         | Add title to waka-readme stats blob                                               |
-| `SECTION_NAME`      | `waka`, any alphanumeric string                                         | The generator will look for section name to fill up the readme.                   |
-| `BLOCKS`            | `░▒▓█`, `⣀⣄⣤⣦⣶⣷⣿`, `-#`, `=>`, you can be creative                      | Ascii art used to build stats graph                                               |
-| `CODE_LANG`         | `txt`, `python` `ruby` `json` , you can use other languages also        | Language syntax based highlighted text                                            |
-| `TIME_RANGE`        | `last_7_days`, `last_30_days`, `last_6_months`, `last_year`, `all_time` | String representing a dispensation from which stats are aggregated                |
-| `LANG_COUNT`        | `5`, any plausible number                                               | Number of languages to be displayed                                               |
-| `SHOW_TIME`         | `true`, `false`                                                         | Displays the amount of time spent for each language                               |
-| `SHOW_TOTAL`        | `false`, `true`                                                         | Show total coding time                                                            |
-| `SHOW_MASKED_TIME`  | `false`, `true`                                                         | Adds total coding time including unclassified languages (overrides: `SHOW_TOTAL`) |
-| `STOP_AT_OTHER`     | `false`, `true`                                                         | Stop when language marked as `Other` is retrieved (overrides: `LANG_COUNT`)       |
-| `IGNORED_LANGUAGES` | <code> </code>, `Binary YAML JSON TOML`                                 | Hide languages from your stats                                                    |
+<img src="https://github-readme-stats.vercel.app/api?username=AayanFr&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Aayan's GitHub stats">
 
-### Commit Tweaks
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AayanFr&theme=highcontrast" alt="Aayan's GitHub Profile Details">
 
-| Environment flag  | Options (`Default`, `Other`, ...)                                    |
-| ----------------- | -------------------------------------------------------------------- |
-| `COMMIT_MESSAGE`  | `Updated waka-readme graph with new metrics`, any reasonable message |
-| `TARGET_BRANCH`   | `NOT_SET`, target branch name                                        |
-| `TARGET_PATH`     | `NOT_SET`, `/path/to/target/file`                                    |
-| `COMMITTER_NAME`  | `NOT_SET`, committer name                                            |
-| `COMMITTER_EMAIL` | `NOT_SET`, committer email                                           |
-| `AUTHOR_NAME`     | `NOT_SET`, author name                                               |
-| `AUTHOR_EMAIL`    | `NOT_SET`, author email                                              |
+<br>
 
-The first option is the _default_ value of the _flag_, subsequent options are valid values available for the _flag_.
+<h3>GitHub Contribution Chart</h3>
 
-## Example
+<a href="https://github.com/AayanFr">
+    <img src="https://ghchart.rshah.org/AayanFr" alt="AayanFr's GitHub Contribution Chart">
+</a>
 
-**`waka-readme.yml`**
+<br><br>
 
-```yml
-name: Waka Readme
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
+  </summary>
 
-on:
-  # for manual workflow trigger
-  workflow_dispatch:
-  schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+<br>
 
-jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-        # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME # optional
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: YOUR_NAME # optional
-          AUTHOR_EMAIL: YOUR@EMAIL.com # optional
-          # you can populate email-id with secrets instead
+<img src="https://myreadme.vercel.app/api/embed/AayanFr?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="AayanFr's GitHub Stats">
+
+</details>
+
+<br>
+
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=AayanFr&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+</details>
+
+</div>
+
+<br>
+
+<h2 align="center">🚀 Projects</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="300" height="200">
+      🎮
+      <br>
+      <strong>The Lost Battleground</strong>
+      <br>
+      Roblox multiplayer game project
+      <br><br>
+      <em>In Development</em>
+    </td>
+
+```
+<td align="center" width="300" height="200">
+  ⚙️
+  <br>
+  <strong>Bhadra 23 Mechanical Model</strong>
+  <br>
+  Mechanical model exploring movement and mechanisms
+  <br><br>
+  <em>Maker Project</em>
+</td>
+
+<td align="center" width="300" height="200">
+  🤖
+  <br>
+  <strong>Water Robot Boat</strong>
+  <br>
+  A completed robotics and maker project
+  <br><br>
+  <em>Completed</em>
+</td>
 ```
 
-_Rendered `markdown`:_
+  </tr>
+</table>
 
-<!-- prettier-ignore-start -->
+</div>
 
-```rust
-From: 10 July 2020 - To: 06 August 2022
+<br>
 
-Total Time: 1,464 hrs 54 mins
+<h2 align="center">🏆 Achievements & Activities</h2>
 
-Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %
-Markdown           132 hrs 33 mins >>-----------------------   08.43 %
-TeX                103 hrs 52 mins >>-----------------------   06.61 %
-HTML               94 hrs 48 mins  >>-----------------------   06.03 %
-Nim                64 hrs 31 mins  >------------------------   04.11 %
-Other              47 hrs 58 mins  >------------------------   03.05 %
+<div align="center">
+
+🎤 Participated in school presentations and speech competitions
+🏅 Won first place in a school competition
+🧪 Participated in and conducted science exhibitions
+🔬 Explored robotics and hands-on maker projects
+💻 Learning development through personal projects and experiments
+
+</div>
+
+<br>
+
+<h1 align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px">
+Tech Stack
+</h1>
+
+<h3 align="center">Development</h3>
+
+<div align="center">
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center">Languages & Development</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+
+```
+  <td align="center" style="border: none;">
+    <img src="https://skillicons.dev/icons?i=lua" width="50" height="50" alt="Lua"/>
+    <br>Lua / Luau
+  </td>
+
+  <td align="center" style="border: none;">
+    <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/>
+    <br>HTML
+  </td>
+
+  <td align="center" style="border: none;">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python"/>
+    <br>Python
+  </td>
+
+  <td align="center" style="border: none;">
+    <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
+    <br>Git
+  </td>
+
+  <td align="center" style="border: none;">
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
+    <br>GitHub
+  </td>
+
+</tr>
 ```
 
-<!-- prettier-ignore-end -->
+  </tbody>
+</table>
 
-## Notes
+</div>
 
-- Flags `REPOSITORY` and `GH_TOKEN` are required ONLY if, you are NOT using [profile readme][profile_readme].
-- If you are using `GH_TOKEN`, make sure set the [fine grained token](https://github.com/settings/tokens?type=beta) scope to repository contents with `read-and-write` access. See [#141 (comment)](https://github.com/athul/waka-readme/issues/141#issuecomment-1679831949).
-- `WAKATIME_API_KEY` is a **required** secret. All other environment variables are optional.
-- The above example does NOT show proper default values, refer [#Tweaks](#tweaks) for the same.
-- `IGNORED_LANGUAGES` is suggested for [.NET](https://dotnet.microsoft.com) users, as WakaTime assumes you're working with `Binary`, while debugging.
+<h3 align="center">Game Development</h3>
 
-## Why only the language stats (and not other data) from the API?
+<div align="center">
 
-I am a fan of minimal designs and the profile readme is a great way to show off your skills and interests. The WakaTime API, gets us a **lot of data** about a person's **coding activity including the editors and Operating Systems you used and the projects you worked on**. Some of these projects maybe secretive and should not be shown out to the public. Using up more data via the Wakatime API will clutter the profile readme and hinder your chances on displaying what you provide **value to the community** like the pinned Repositories. I believe that **Coding Stats is nerdiest of all** since you can tell the community that you are **_exercising these languages or learning a new language_**, this will also show that you spend some amount of time to learn and exercise your development skills. That's what matters in the end :heart:
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
 
-[//]: #(Links)
-[wakapi]: https://wakapi.dev
-[hakatime]: https://github.com/mujx/hakatime
-[waka_plugins]: https://wakatime.com/plugins
-[waka_help]: https://wakatime.com/help/editors
-[profile_readme]: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
-[gh_access_token]: https://docs.github.com/en/actions/configuring-and-managing-workflows/authenticating-with-the-github_token
-[gh_discuss]: https://github.com/athul/waka-readme/discussions
+```
+  <td align="center" style="border: none;">
+    <img src="https://skillicons.dev/icons?i=robloxstudio" width="50" height="50" alt="Roblox Studio"/>
+    <br>Roblox Studio
+  </td>
+
+  <td align="center" style="border: none;">
+    🎮
+    <br>Luau
+  </td>
+
+</tr>
+```
+
+  </tbody>
+</table>
+
+</div>
+
+<h3 align="center">AI Tools</h3>
+
+<div align="center">
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+
+```
+  <td align="center" style="border: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/>
+    <br>ChatGPT
+  </td>
+
+  <td align="center" style="border: none;">
+    <img src="https://github.com/google-gemini/gemini-api-quickstart/raw/main/images/gemini-logo.png" width="50" height="50" alt="Google Gemini"/>
+    <br>Google Gemini
+  </td>
+
+</tr>
+```
+
+  </tbody>
+</table>
+
+</div>
+
+<h3 align="center">Design & Creative Tools</h3>
+
+<div align="center">
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+
+```
+  <td align="center" style="border: none;">
+    <img src="https://skillicons.dev/icons?i=canva" width="50" height="50" alt="Canva"/>
+    <br>Canva
+  </td>
+
+  <td align="center" style="border: none;">
+    <img src="https://skillicons.dev/icons?i=blender" width="50" height="50" alt="Blender"/>
+    <br>Blender
+  </td>
+
+  <td align="center" style="border: none;">
+    🎬
+    <br>CapCut
+  </td>
+
+</tr>
+```
+
+  </tbody>
+</table>
+
+</div>
+
+<h3 align="center">Currently Learning</h3>
+
+<div align="center">
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+
+```
+  <td align="center" style="border: none;">
+    🔧
+    <br>Fusion 360
+  </td>
+
+  <td align="center" style="border: none;">
+    🤖
+    <br>Arduino
+  </td>
+
+</tr>
+```
+
+  </tbody>
+</table>
+
+</div>
+
+<br>
+
+<h2 align="center">🎥 My YouTube Channel</h2>
+
+<p align="center">
+  <a href="https://www.youtube.com/@VoidxVolt">
+    <img src="https://img.shields.io/badge/YouTube-VoidxVolt-red?style=for-the-badge&logo=youtube&logoColor=white" alt="VoidxVolt YouTube">
+  </a>
+</p>
+
+<p align="center">
+  Check out my channel for videos, edits, gaming, and other content.
+</p>
+
+<br>
+
+<h2 align="center">🎮 Wanna Play a Game?</h2>
+
+<details>
+  <summary>Open the Game!</summary>
+
+  <h2 align="center">Enjoy the Game!</h2>
+
+  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Game" />
+
+</details>
+
+<br>
+
+<h2 align="center">📱 Socials</h2>
+
+<div align="center">
+
+<a href="https://www.youtube.com/@VoidxVolt">
+<img src="https://img.shields.io/badge/YouTube-VoidxVolt-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+
+<a href="https://www.instagram.com/not_aayantripathi/">
+<img src="https://img.shields.io/badge/Instagram-not__aayantripathi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://www.reddit.com/user/itzmeaayan/">
+<img src="https://img.shields.io/badge/Reddit-itzmeaayan-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+</a>
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-itzmeaayan-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+</div>
+
+<br>
+
+<h2 align="center">🌱 Learning by Building</h2>
+
+<p align="center">
+  <em>
+    I don't want to just learn technology — I want to build with it.
+  </em>
+</p>
+
+<p align="center">
+  From games and code to robotics, design, AI, and creative projects,
+  I'm exploring different parts of technology one project at a time.
+</p>
+
+<br>
+
+<h3 align="center">
+
+⭐️ From <a href="https://github.com/AayanFr">AayanFr</a> | Let's build something cool! 🚀
+
+</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
