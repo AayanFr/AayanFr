@@ -1,20 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=120&section=header" width="100%">
 
 <div align="center">
   <a href="https://github.com/AayanFr">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Aayan%20Tripathi&description=AI%20and%20Tech%20Explorer%2C%20Student%20%26%20Developer%20exploring%20Python%2C%20web%20development%2C%20AI%2C%20design%2C%20and%20creative%20technology.&image=https%3A%2F%2Fgithub.com%2Fgithub.png&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=VoidxVolt&instagram=not_aayantripathi&github=AayanFr" alt="Aayan Tripathi's Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Aayan%20Tripathi&description=AI%20and%20Tech%20Explorer%2C%20Student%20%26%20Developer%20exploring%20Python%2C%20web%20development%2C%20AI%2C%20design%2C%20and%20creative%20technology.&image=https%3A%2F%2Fgithub.com%2Fgithub.png&backgroundColor=%230F172A&colorPattern=%2300F2FE&youtube=VoidxVolt&instagram=not_aayantripathi&github=AayanFr" alt="Aayan Tripathi's Card" />
   </a>
 </div>
 
-<h1 align="center">Hello &nbsp;<a href="https://github.com/AayanFr"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Aayan Tripathi</h1>
+<br>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aayan+Tripathi+%F0%9F%90%A7;AI+%26+Tech+Explorer;Student+%26+Developer;" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=500&lines=AI+%26+Tech+Explorer;Student+%26+Developer;Python+Learner;Sketcher;Gamer;Video+Editor;Tech+Enthusiast;" alt="Typing SVG" />
+  <code>Student</code> • <code>Sketcher</code> • <code>AI Explorer</code> • <code>Gamer</code> • <code>Tech Enthusiast</code> • <code>Video Editor</code>
 </p>
 
-<p align="center">
-  Student | Sketcher | AI Explorer | Gamer | Tech Enthusiast | Video Editor
-</p>
+<br>
 
 <div align="center">
 
@@ -33,13 +35,12 @@
 
 <br>
 
-<h2 align="center">⚡ Bio</h2>
-
 <div align="center">
-  <table style="border: 2px solid #9400D3; border-radius: 12px; background: rgba(148, 0, 211, 0.05); padding: 15px;">
+  <table style="border: 1px solid #1E293B; border-radius: 16px; background: linear-gradient(135deg, #0F172A 0%, #1E1B4B 100%); padding: 20px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);">
     <tr>
       <td align="center">
-        <p style="font-size: 1.05em; line-height: 1.6;">
+        <h2 align="center" style="color: #00F2FE;">⚡ Bio</h2>
+        <p style="font-size: 1.05em; line-height: 1.7; color: #CBD5E1;">
           I'm Aayan Tripathi, a student and tech enthusiast who enjoys learning by building things.
           <br><br>
           I explore different areas of technology, from Python and HTML to AI tools, digital design, video editing, and hands-on projects. I'm still learning, experimenting, and figuring things out, but I enjoy turning ideas into actual projects.
@@ -55,7 +56,7 @@
 
 <br>
 
-<h2 align="center">🎯 Goals</h2>
+<h2 align="center" style="color: #00F2FE;">🎯 Goals</h2>
 
 <div align="center">
 
@@ -71,11 +72,11 @@
 
 <br>
 
-<h3 align="center">Git Stats</h3>
+<h3 align="center">⚡ Git Stats</h3>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=AayanFr&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=AayanFr&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
@@ -113,7 +114,9 @@ Tech Stack
 <br>
 
 <div align="center">
-  <sub>👀 Profile views: <img src="https://komarev.com/ghpvc/?username=AayanFr&style=flat-square&label=views" alt="Profile views"></sub>
+  <p style="color: #475569; font-size: 11px; margin: 0;">
+    views <img src="https://komarev.com/ghpvc/?username=AayanFr&style=flat&color=1E293B&labelColor=0F172A" alt="Profile views" valign="middle">
+  </p>
 </div>
 
 <br>
@@ -124,4 +127,4 @@ Tech Stack
 
 </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=120&section=footer" width="100%">
