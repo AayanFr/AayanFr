@@ -33,18 +33,25 @@
 
 <br>
 
-<h2 align="center">Bio</h2>
+<h2 align="center">⚡ Bio</h2>
 
-<p>
-I'm Aayan Tripathi, a student and tech enthusiast who enjoys learning by building things.
-
-I explore different areas of technology, from Python and HTML to AI tools, digital design, video editing, and hands-on projects. I'm still learning, experimenting, and figuring things out, but I enjoy turning ideas into actual projects.
-
-Outside of coding, I enjoy sketching, gaming, creating videos, and taking part in school presentations, speeches, and science exhibitions.
-
-My goal is to keep learning, build more projects, and use technology to turn ideas into something real.
-
-</p>
+<div align="center">
+  <table style="border: 2px solid #9400D3; border-radius: 12px; background: rgba(148, 0, 211, 0.05); padding: 15px;">
+    <tr>
+      <td align="center">
+        <p style="font-size: 1.05em; line-height: 1.6;">
+          I'm Aayan Tripathi, a student and tech enthusiast who enjoys learning by building things.
+          <br><br>
+          I explore different areas of technology, from Python and HTML to AI tools, digital design, video editing, and hands-on projects. I'm still learning, experimenting, and figuring things out, but I enjoy turning ideas into actual projects.
+          <br><br>
+          Outside of coding, I enjoy sketching, gaming, creating videos, and taking part in school presentations, speeches, and science exhibitions.
+          <br><br>
+          My goal is to keep learning, build more projects, and use technology to turn ideas into something real.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
@@ -69,10 +76,6 @@ My goal is to keep learning, build more projects, and use technology to turn ide
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=AayanFr&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AayanFr&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Aayan's GitHub Stats">
 
 </div>
 
